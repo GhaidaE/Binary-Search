@@ -1,2 +1,2 @@
-# Binary-Search
-Problems from Leetcode Explore Binary Search (https://leetcode.com/explore/learn/card/binary-search/)
+# Binary-Everything
+Problems from Interview Camp and Leetcode covering Binary Search, Binary Tree, BST
